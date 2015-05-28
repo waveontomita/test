@@ -9,3 +9,4 @@ push test1
 
 push test1
 push test1
+push test1
